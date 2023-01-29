@@ -22,6 +22,9 @@ The microcontroller i.e., UNO is used to control the solenoid lock, the solenoid
 provide and to drive the solenoid lock we would need an external power source that can give 12V 500mA and for that we need a relay module 
 which is an electromagnetic switch operated by a relatively small current that can control much larger current like solenoid door lock.
 
+Kalman Filter : https://github.com/TKJElectronics/KalmanFilter
+
+RF24 library : https://github.com/nRF24/RF24
 
 ### Testings :
 

@@ -49,6 +49,9 @@ which is an electromagnetic switch operated by a relatively small current that c
 
 ## Schematics:
 
-![transmitter_wiring_diagram_DuWMTbnRVY](https://user-images.githubusercontent.com/70831607/215320825-c7a3daee-e394-458e-bde5-e650afe01aec.jpg)
-![receiver_wiring_diagram_Z0wAicaB9J](https://user-images.githubusercontent.com/70831607/215320846-11c952b3-1f5b-41eb-b420-9b4208c3b04b.jpg)
+### Trasmitter Wiring Diagram
+![image](https://user-images.githubusercontent.com/70831607/215320913-2a9b5285-2f0c-4926-91aa-c8f83a46cedb.png)
+
+### Receiver Wiring Diagram
+![image](https://user-images.githubusercontent.com/70831607/215320940-c0f9375f-db14-4d0e-a5dd-d20f765818ea.png)
 

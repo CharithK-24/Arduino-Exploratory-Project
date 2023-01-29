@@ -41,7 +41,7 @@ which is an electromagnetic switch operated by a relatively small current that c
     in this context an accelerometer and a gyroscope. The Kalman filter will then try to estimate the state of the system, based on the current and previous states, 
     that tend to be more precise than the measurements alone.
 
-	  #3 Issue: Communication between the transmitter and receiver (ARDUINO NANO AND UNO)
+    #3 Issue: Communication between the transmitter and receiver (ARDUINO NANO AND UNO)
 
      Had to figure out the addresses(memory map) of the NANO and UNO ports in order for communication to happen i.e, 
      for the transmitter and receiver arduino codesto communicate through the NRF24 radio.

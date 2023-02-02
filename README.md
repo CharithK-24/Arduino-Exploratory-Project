@@ -56,5 +56,9 @@ RF24 library : https://github.com/nRF24/RF24
 ![image](https://user-images.githubusercontent.com/70831607/215320913-2a9b5285-2f0c-4926-91aa-c8f83a46cedb.png)
 
 ### Receiver Wiring Diagram
-![image](https://user-images.githubusercontent.com/70831607/215320940-c0f9375f-db14-4d0e-a5dd-d20f765818ea.png)
+![image](https://user-images.githubusercontent.com/70831607/215320940-c0f9375f-db14-4d0e-a5dd-d20f765818ea.png)  
 
+## Contributers
+
+[Harsh Mungara](https://github.com/Harsh62004)  
+[Charith Kutikuppala](https://github.com/itsmeck24) 

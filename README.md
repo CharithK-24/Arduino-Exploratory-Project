@@ -61,4 +61,5 @@ RF24 library : https://github.com/nRF24/RF24
 ## Contributers
 
 [Harsh Mungara](https://github.com/Harsh62004)  
-[Charith Kutikuppala](https://github.com/itsmeck24) 
+[Charith Kutikuppala](https://github.com/itsmeck24)  
+[Priyank Hudka](https://github.com/priyank-hudka)
